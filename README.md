@@ -23,48 +23,43 @@ Here are the technologies used in this project.
 
 ## How to use
 
-### 1 - When you access, you will see the Home page <3
+### 1 - When you access, you will see the Login page.
 
-![Homepage image](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/home.png)
+![Homepage image](https://github.com/endersonlynhares/projeto_lab_web/blob/master/imgs/images_sys/tela__login.jpg)
 
-### 2 - You can also see a lot of information on the Blog posts session.
+### 2 - After Login, You can see the Main page.
 
-![Posts](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/posts.png)
-
-### 3 - Or access some of the posts :D
-
-![Post show](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/post_1.png)
-![Post show](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/post_2.png)
-![Post show](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/post_3.png)
-
-### 4 - Or you can see my personal Portfolio.
-
-![Portfolio](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/portfolio_1.png)
-![Portfolio](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/portfolio_2.png)
+![Posts](https://github.com/endersonlynhares/projeto_lab_web/blob/master/imgs/images_sys/tela__principal.jpg)
 
 
-## Features
 
-The main features of the application are:
- - Publish Posts.
- - Learn a lot of information <3
+### 3 - Or access the System Registration made and update it :D
+
+![Post show](https://github.com/endersonlynhares/projeto_lab_web/blob/master/imgs/images_sys/tela__servicos.jpg)
 
 
-## Links
-  - Deploy on Heroku: https://lucas-dev.com/
-  - Repository: https://github.com/Lucasdfg07/Blog_Lucas_Fernandes
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      Lucassiqueiraferandes07@gmail.com directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
+### 4 - You can do news services orders .
+
+![Posts](https://github.com/endersonlynhares/projeto_lab_web/blob/master/imgs/images_sys/tela__cadastrO-os.jpg)
+
+### You can see register of equipaments too.
+
+![Posts](https://github.com/endersonlynhares/projeto_lab_web/blob/master/imgs/images_sys/tela__equipamentos.jpg)
+
+
+## What's left to do?
+
+ - Create a Dashboard page
+ - Styling pdf generation
 
   ## Versioning
 
   1.0.0.0
 
 
-  ## Authors
+  ## Author(s)
 
-  * **Lucas Siqueira Fernandes** 
+  Group SoftTech
 
   Please follow github and join us!
   Thanks to visiting me and good coding!
